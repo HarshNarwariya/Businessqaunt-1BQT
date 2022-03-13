@@ -33,3 +33,5 @@ pip install pandas
 pip install dash
 pip install plotly
 ```
+
+`After installing all the required requirements run the app.py in Businessqaunt-1BQT/Businessqaunt/DashApp/`
