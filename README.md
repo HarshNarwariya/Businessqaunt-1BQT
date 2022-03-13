@@ -1,14 +1,4 @@
-# Businessqaunt-1BQT
-
-### Requirements
-Dash, Pandas, Plotly
-
-### Installation
-```python
-pip install pandas
-pip install dash
-pip install plotly
-```
+# Businessqaunt-1BQT 
 
 ### App Preview
 
@@ -33,3 +23,13 @@ Sales were at the `peek in the Year 2012` with `sales of 1203` and the sales wer
 
 ![](https://github.com/HarshNarwariya/Businessqaunt-1BQT/blob/main/Businessqaunt/Images/5.png)
 Item having `most sales is Cauliflower` and `lowest sales is Brocolli`
+
+### Requirements
+Dash, Pandas, Plotly
+
+### Installation
+```python
+pip install pandas
+pip install dash
+pip install plotly
+```
