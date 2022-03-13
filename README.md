@@ -4,7 +4,7 @@
 Dash, Pandas, Plotly
 
 ### Installation
-```
+```python
 pip install pandas
 pip install dash
 pip install plotly
