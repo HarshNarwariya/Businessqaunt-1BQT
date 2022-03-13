@@ -1,5 +1,15 @@
 # Businessqaunt-1BQT
 
+### Requirements
+Dash, Pandas, Plotly
+
+### Installation
+```
+pip install pandas
+pip install dash
+pip install plotly
+```
+
 ### App Preview
 
 ![Businessqaunt-1BQT/Businessqaunt/DashApp/](https://github.com/HarshNarwariya/Businessqaunt-1BQT/blob/main/Businessqaunt/Images/App%201.png "Initially Brocolli is selected")
